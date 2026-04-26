@@ -20,6 +20,7 @@ then
 fi
 
 alias ls="ls --color=auto"
+alias fetch="fastfetch"
 
 HISTSIZE=1000000
 SAVEHIST=1000000
